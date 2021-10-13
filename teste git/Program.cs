@@ -15,6 +15,9 @@ namespace teste_git
             Console.WriteLine("My name is Alefe Carvalho");
             Console.WriteLine("My main objective is to become a great programmer in C#.");
             Console.ReadLine();
+            Console.WriteLine("Every successfull story has a beginning, and now, I am writting" +
+                " mine...");
+            Console.ReadLine();
 
         }
     }
