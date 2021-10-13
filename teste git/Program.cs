@@ -12,6 +12,10 @@ namespace teste_git
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
+            Console.WriteLine("My name is Alefe Carvalho");
+            Console.WriteLine("My main objective is to become a great programmer in C#.");
+            Console.ReadLine();
+
         }
     }
 }
